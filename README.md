@@ -1,1 +1,2 @@
-# vietthuan98.github.io
+# No big deal
+[Finance Calculator](/finance_calculator)
